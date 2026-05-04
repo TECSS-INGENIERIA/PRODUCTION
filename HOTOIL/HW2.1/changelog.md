@@ -4,3 +4,6 @@
 - Se agregó soporte para actualización OTA por HTTPS.
 - Se mejoro sincronizacion de fecha y hora.
 - Se agregó comandos por MQTT para reset, update y configuración .
+
+## v2.8 - 2026-05-04
+- Se corrijió paquetes de mediciones con periodos compartidos
